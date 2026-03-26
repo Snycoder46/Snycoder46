@@ -1,4 +1,16 @@
-## Hi there 👋
+# Hi 👋, I'm Saniya Khan
+
+🌱 I’m currently learning Python 🐍  
+💻 Beginner Developer  
+🚀 GSoC Aspirant  
+
+## 🔧 Skills
+- Python (Learning)
+- Git & GitHub (Learning)
+
+## 📌 Goals
+- Contribute to Open Source
+- Get selected in GSoC
 
 <!--
 **Snycoder46/Snycoder46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
